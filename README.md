@@ -1,1 +1,1 @@
-# Sport-Timer
+This is a simple sports timer that I quickly coded to use myself during training. Nothing fancy. Have fun.
